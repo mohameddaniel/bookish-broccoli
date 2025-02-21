@@ -46,7 +46,7 @@
 🔹 **🚀 Plateforme E-commerce** (NestJS, MySQL, Docker, Kubernetes)
 🔹 **🧠 Détection d’Objets en Temps Réel** (TensorFlow, OpenCV, React Native)
 
-📌 Voir tous mes projets sur [GitHub](https://github.com/yourusername)
+📌 Voir tous mes projets sur [GitHub](https://github.com/mohameddaniel)
 
 ---
 
@@ -56,7 +56,7 @@
 💼 **LinkedIn :** [linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohameddaniel&show_icons=true&theme=radical" alt="Stats GitHub" />
 </p>
 
 
