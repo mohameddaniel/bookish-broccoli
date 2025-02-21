@@ -52,7 +52,7 @@
 
 ## 📫 **Me Contacter**
 
-📧 **Email :**[Email](mohammeddaniyale@gmail.com)  
+📧 **Email :**[Email](danielwork2030@gmail.com)  
 💼 **LinkedIn :** [linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
 
 <p align="center">
