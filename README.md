@@ -16,7 +16,7 @@
 
 ## 📌 **À propos de moi**
 
-👋 Salut ! Je suis un **développeur Full Stack & Machine Learning Engineer** passionné par la **création d’applications mobiles et backend robustes**. J’adore explorer les **nouvelles technologies** et relever des **challenges techniques**.
+👋 Salut ! Je suis Daniyale Mohammed est un **développeur Full Stack & Machine Learning Engineer** passionné par la **création d’applications mobiles et backend robustes**. J’adore explorer les **nouvelles technologies** et relever des **challenges techniques**.
 
 💡 **Ce que je fais :**
 - 📱 **Développement Mobile :** React Native, Expo
@@ -52,9 +52,8 @@
 
 ## 📫 **Me Contacter**
 
-📧 **Email :** your-email@example.com  
-💼 **LinkedIn :** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌍 **Portfolio :** [yourwebsite.com](https://yourwebsite.com)
+📧 **Email :**mohammeddaniyale@gmail.com  
+💼 **LinkedIn :** [linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Stats GitHub" />
